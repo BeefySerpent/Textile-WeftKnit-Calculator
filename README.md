@@ -48,7 +48,7 @@ Users can:
 - View calculated consumption percentages instantly
 - Generate a PDF report
 
-The initial interface contains three yarn rows, with the ability to dynamically add more. :contentReference[oaicite:1]{index=1}
+The initial interface contains three yarn rows, with the ability to dynamically add more.
 
 ---
 
@@ -97,7 +97,7 @@ The application calculates:
 - Profit
 - Finished fabric price
 
-The current implementation calculates yarn, knitting, and process costs before applying process loss and profit. :contentReference[oaicite:2]{index=2}
+The current implementation calculates yarn, knitting, and process costs before applying process loss and profit.
 
 ---
 
