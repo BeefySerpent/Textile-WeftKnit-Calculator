@@ -1,5 +1,10 @@
 # Textile R&D Calculations
 
+## Visit
+Visit: https://beefyserpent.github.io/Textile-WeftKnit-Calculator/
+
+---
+
 A lightweight browser-based **Textile R&D Calculation Tool** designed to simplify common textile yarn, fabric, costing, and count-related calculations.
 
 The application is built as a standalone HTML file using **HTML, CSS, and JavaScript**, with client-side PDF generation through **jsPDF** and **jsPDF-AutoTable**.
